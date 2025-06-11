@@ -1,6 +1,3 @@
-
-
-
 # 🧠 SO-analysis
 
 **SO-analysis** is a Python project focused on simulating and analyzing the performance of file I/O and sorting operations. It leverages system metrics (CPU, memory usage) to provide insights into how resource-intensive operations affect overall system performance — useful for Operating Systems studies and benchmarking exercises.
